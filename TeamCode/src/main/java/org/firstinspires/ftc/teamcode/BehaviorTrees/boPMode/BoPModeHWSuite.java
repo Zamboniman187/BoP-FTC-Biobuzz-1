@@ -1,11 +1,6 @@
 package org.firstinspires.ftc.teamcode.BehaviorTrees.boPMode;
 
 
-import com.qualcomm.hardware.lynx.LynxModule;
-import com.qualcomm.robotcore.eventloop.opmode.OpMode;
-
-import org.firstinspires.ftc.teamcode.resources.SwyftWheels;
-import org.firstinspires.ftc.teamcode.trailblazer.drivebase.Drive;
 
 /**
  * A localized place to hold all of our hardware for Behvavior tree programs.
